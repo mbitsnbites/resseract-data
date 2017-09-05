@@ -1,0 +1,5 @@
+Files: grunt1.wav, grunt2.wav, grunt3.wav, grunt4.wav, grunt5.wav
+Author: bennychico11
+License: CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+Origin: https://freesound.org/people/bennychico11/sounds/80438/
+
