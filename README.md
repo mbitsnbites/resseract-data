@@ -1,3 +1,5 @@
+## ⚠️ This repository has moved to: https://gitlab.com/mbitsnbites/resseract-data
+
 # Resseract Data
 
 These are the data files (game data) for the Resseract FPS game.
